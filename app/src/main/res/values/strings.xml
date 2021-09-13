@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="create_puzzle">No puzzle found!\n First create puzzle then play</string>
+    <string name="home">Home</string>
+    <string name="create">Create Puzzle</string>
+    <string name="play">Play Puzzle</string>
+    <string name="exception">Something went wrong! Please try again later.</string>
+    <string name="grid_size">Grid (%d X %d)</string>
+</resources>
